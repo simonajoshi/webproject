@@ -1,0 +1,81 @@
+
+/************FEATURE POST***********/
+.feature-post-section{
+    background-color: #e1e1e1;
+    padding-top: 15px;
+    padding-bottom: 45px;
+}
+.feature-post-section .section-title{
+    margin: 0;
+    padding-top: 30px;
+    text-transform: uppercase;
+}
+.feature-post-section .feature-single-post{
+    margin-top: 30px;
+}
+.feature-post-section .post-list{
+    padding-top: 15px;
+}
+.feature-post-section .post-list .post{
+    margin-top: 15px;
+}
+
+/*------------END OF FEATURE POST-------------*/
+
+/******************TRENDING POST*************/
+.trending-post-section{
+    background-color: #eee;
+    padding-top: 15px;
+    padding-bottom: 45px;
+}
+.trending-post-section .section-title{
+    margin: 0;
+    padding-top: 30px;
+    text-transform: uppercase;
+    font-size: x-large;
+    font-weight: 800;
+}
+.trending-post-section .post-list{
+    padding-top: 15px;
+}
+.trending-post-section .post{
+    margin-top: 15px;
+    border-top: 1px solid gray;
+    padding-top: 15px;
+}
+/*-----------------END OF TRENDING POST--------------*/
+
+
+
+
+/*------------END OF FEATURE POST-------------*/
+.blog-post-section{
+    background-color: #e1e1e1;;
+    padding-top: 15px;
+    padding-bottom: 45px;
+}
+.blog-post-section .section-title{
+    margin: 0;
+    padding-top: 30px;
+    text-transform: uppercase;
+    font-size: x-large;
+    font-weight: 800;
+}
+.blog-post-section .post-list{
+    padding-top: 15px;
+}
+.blog-post-section .post{
+    margin-top: 15px;
+    border-top: 1px solid whitesmoke;
+    padding-top: 15px;
+}
+
+.image-post-section{
+    background-color: #eee;
+    padding-top: 15px;
+    padding-bottom: 45px;
+}
+.image-post-section .post-gallery{
+	padding-left: 50px;
+	padding-bottom: 15px;	
+}

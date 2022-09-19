@@ -1,0 +1,19 @@
+
+
+/************NEWS POST***********/
+.news-post-section{
+    background-color: #e1e1e1;
+    padding-top: 15px;
+    padding-bottom: 45px;
+}
+.news-post-section .section-title{
+    margin: 0;
+    padding-top: 30px;
+    text-transform: uppercase;
+}
+
+.news-post-section .post-list .post{
+    margin-top: 30px;
+}
+
+/*------------END OF NEWS POST-------------*/
